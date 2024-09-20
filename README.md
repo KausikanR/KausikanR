@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KausikanR
-- 👀 I’m interested in Networking
+- 👀 I’m working in Tata Communications and Transformation Services
 - 🌱 I’m currently learning CCNA, Network Automation
 - 💞️ I’m looking to collaborate on Networking
 - 📫 How to reach me kausikan.r@datamail.in
